@@ -1,0 +1,2 @@
+# simuladoferramentas_qualidade
+validado
